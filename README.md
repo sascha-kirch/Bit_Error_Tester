@@ -9,3 +9,6 @@ The design is written in HDL and it has been tested using a cyclone II FPGA boar
 
 ## Block Diagram of Inputs and Outputs
 <img src="https://github.com/SaKi1309/Bit_Error_Tester/blob/main/imgs/block.PNG" width="800" />
+
+# Repo Stats
+![](https://komarev.com/ghpvc/?username=saschakirchbert&color=yellow) since 16.04.2022
